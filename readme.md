@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garvit K Rai<br>&ltgarvitrai013/&gt</h1>
-<h3 align="center">I'm a front-end developer from India. Developer by profession, JS lover by choice. I enjoy learning new technologies & working with them. I'm fond of making friends with new developers too, so if you're new feel free to hit me up 👇</h3>
+<h3 align="center">I'm a front-end developer from India. Programmer by profession, JS lover by choice. I enjoy learning new technologies & working with them. I'm fond of making friends with new developers too, so if you're new feel free to hit me up 👇</h3>
 
 
 
