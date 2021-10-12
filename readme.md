@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/garvitrai013" target="blank"><img src="https://img.shields.io/twitter/follow/garvitrai013?logo=twitter&style=for-the-badge" alt="garvitrai013" /></a></p>
+<p align="center"> <a href="https://twitter.com/thegarvitrai" target="blank"><img src="https://img.shields.io/twitter/follow/thegarvitrai?logo=twitter&style=for-the-badge" alt="thegarvitrai" /></a></p>
 
 - 🔭 I’m currently working on **front-end projects**
 
@@ -15,16 +15,16 @@
 
 - 📄 Know about my experiences on my **LinkedIn**
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: **He/Him**
 
 - ⚡ Fun fact: **My sarcasm vibes with my baritone**
 <br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/garvitrai013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garvitrai013" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/garvitrai013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvitrai013" height="30" width="40" /></a>
-<a href="https://instagram.com/garvitrai013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garvitrai013" height="30" width="40" /></a>
-<a href="https://www.showwcase.com/garvitrai013" target="blank"><img style="padding-top:2px;padding-bottom:2px" align="center" src="showwcase-modified.png" alt="garvitrai013" height="30" width="30"/></a>
+<a href="https://twitter.com/thegarvitrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garvitrai013" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thegarvitrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvitrai013" height="30" width="40" /></a>
+<a href="https://instagram.com/thegarvitrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garvitrai013" height="30" width="40" /></a>
+<a href="https://www.showwcase.com/thegarvitrai" target="blank"><img style="padding-top:2px;padding-bottom:2px" align="center" src="showwcase-modified.png" alt="garvitrai013" height="30" width="30"/></a>
 <a href="https://www.codechef.com/users/garvitrai013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="garvitrai013" height="30" width="40" /></a>
 <a href="https://discord.gg/garvitrai013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="garvitrai013" height="30" width="40" /></a>
 <a href="https://codepen.io/garvitrai013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="garvitrai013" height="30" width="40" /></a>
