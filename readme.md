@@ -36,3 +36,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvitrai013&show_icons=true&locale=en&layout=compact" alt="garvitrai013" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garvitrai013&show_icons=true&locale=en" alt="garvitrai013" /></p>
+
+<hr>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
