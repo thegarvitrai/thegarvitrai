@@ -22,11 +22,10 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/thegarvitrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garvitrai013" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thegarvitrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvitrai013" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thegarvitrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvitrai013" height="30" /></a>
 <a href="https://instagram.com/thegarvitrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garvitrai013" height="30" width="40" /></a>
-<a href="https://www.showwcase.com/thegarvitrai" target="blank"><img style="padding-top:2px;padding-bottom:2px" align="center" src="showwcase-modified.png" alt="garvitrai013" height="30" width="30"/></a>
-<a href="https://www.codechef.com/users/garvitrai013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="garvitrai013" height="30" width="40" /></a>
-<a href="https://codepen.io/garvitrai013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="garvitrai013" height="30" width="40" /></a>
+<a href="https://www.showwcase.com/thegarvitrai" target="blank"><img style="padding-top:2px;padding-bottom:2px" align="center" src="showwcase-modified.png" alt="garvitrai013" height="30" width="30"/></a> 
+<a href="https://www.leetcode.com/thegarvitrai" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="garvitrai013" height="30"  /></a>
 </p>
 <br>
 <h3 align="center">Languages and Tools</h3>
