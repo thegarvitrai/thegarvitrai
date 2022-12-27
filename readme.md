@@ -18,6 +18,12 @@
 - 😄 Pronouns: **He/Him**
 
 - ⚡ Fun fact: **My sarcasm vibes with my baritone**
+
+<h3 align="center">Work Account</h3>
+<p align="center">
+<a href="https://github.com/ergarvitrai" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="ergarvitrai" height="30"/></a>
+</p>
+
 <br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
