@@ -4,14 +4,14 @@
 
 
 <p align="center"> <a href="https://twitter.com/thegarvitrai" target="_blank"><img src="https://img.shields.io/twitter/follow/thegarvitrai?logo=twitter&style=for-the-badge" alt="thegarvitrai" /></a></p>
-.
-- 🔭 I’m currently working with **enParadigm**
 
-- 🌱 I’m currently learning **Flutter & AWS**
+- 🔭 I’m currently working with <a href="https://github.com/enparadigm" target="_blank">**enParadigm**</a>
 
-- 👯 I’m looking to collaborate on **Web Dev**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **JavaScript, CSS, Java**
+- 👯 I’m looking to collaborate on **App Developments**
+
+- 💬 Ask me about **JavaScript, Flutter, Java**
 
 - 📄 Know about my experiences on my **LinkedIn**
 
