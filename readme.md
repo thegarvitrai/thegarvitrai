@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://twitter.com/thegarvitrai" target="_blank"><img src="https://img.shields.io/twitter/follow/thegarvitrai?logo=twitter&style=for-the-badge" alt="thegarvitrai" /></a></p>
 
-- 🔭 I’m currently working with <a href="https://github.com/enparadigm" target="_blank">**enParadigm**</a>
+- 🔭 I’m currently working with <a href="https://github.com/enparadigm" target="_blank">**Sharpsell.ai by enParadigm**</a>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👯 I’m looking to collaborate on **App Developments**
+- 👯 I’m looking to collaborate on **App Development Projects**
 
 - 💬 Ask me about **JavaScript, Flutter, Java**
 
@@ -45,6 +45,7 @@
  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
+ <a href="https://aws.amazon.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="aws" width="40" height="40"/></a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
  <a href="https://wordpress.com/" target="_blank"> <img src="wordpress-modified.png" alt="wordpress" width="40" height="40"/></a> 
 </p>
