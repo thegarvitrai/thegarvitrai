@@ -30,7 +30,7 @@
 <a href="https://twitter.com/thegarvitrai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="garvitrai013" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thegarvitrai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garvitrai013" height="30" /></a>
 <a href="https://instagram.com/thegarvitrai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="garvitrai013" height="30" width="40" /></a>
-<a href="https://www.showwcase.com/thegarvitrai" target="_blank"><img style="padding-top:2px;padding-bottom:2px" align="center" src="showwcase-modified.png" alt="garvitrai013" height="30" width="30"/></a> 
+<a href="https://www.showwcase.com/thegarvitrai" target="_blank"><img style="padding-top:2px;padding-bottom:2px" align="center" src="assets/showwcase-modified.png" alt="garvitrai013" height="30" width="30"/></a> 
 <a href="https://www.leetcode.com/thegarvitrai" target="_blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="garvitrai013" height="30"  /></a>
 </p>
 <br>
@@ -47,12 +47,14 @@
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="aws" width="40" height="40"/></a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
- <a href="https://wordpress.com/" target="_blank"> <img src="wordpress-modified.png" alt="wordpress" width="40" height="40"/></a> 
+ <a href="https://wordpress.com/" target="_blank"> <img src="assets/wordpress-modified.png" alt="wordpress" width="40" height="40"/></a> 
 </p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garvitrai013&show_icons=true&locale=en&layout=compact" alt="garvitrai013" /></p>
  
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=garvitrai013&count_private=true" alt="garvitrai013" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=garvitrai013&count_private=true" alt="stats" /></p>
 
+
+<h3 align="center">Recent Activity</h3>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
