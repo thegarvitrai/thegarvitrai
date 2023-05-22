@@ -58,6 +58,6 @@
 ### <p align="center">Recent Activity</p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#464](https://github.com/QasimWani/LeetHub/issues/464) in [QasimWani/LeetHub](https://github.com/QasimWani/LeetHub)
+1. ❗️ Closed issue [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. ❗️ Opened issue [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
