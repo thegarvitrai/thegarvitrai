@@ -17,7 +17,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: **My sarcasm vibes with my baritone**
+- ⚡ Fun fact: **My sarcasm complements my baritone**
 
 <h3 align="center">Work Account</h3>
 <p align="center">
