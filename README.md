@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/thegarvitrai" target="_blank"><img src="https://img.shields.io/twitter/follow/thegarvitrai?logo=twitter&style=for-the-badge" alt="thegarvitrai" /></a></p>
 
-- 🔭 I’m currently working with <a href="https://github.com/enparadigm" target="_blank">**Sharpsell.ai by enParadigm**</a>
+- 🔭 I’m currently working with <a href="https://github.com/enparadigm" target="_blank">**Sharpsell.ai**</a>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
