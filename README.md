@@ -58,6 +58,6 @@
 ### <p align="center">Recent Activity</p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. ❗️ Opened issue [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🔒 Closed issue [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. ❗ Opened issue [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
