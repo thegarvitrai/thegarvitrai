@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm Garvit K Rai<br>&ltgarvitrai013/&gt</h1>
+<h1 align="center">Namaste 🙏, I'm Garvit K Rai<br>&ltthegarvitrai/&gt</h1>
 <h3 align="center">A developer in the world of front-end, CS student from India. Programmer by profession, JS lover by choice. I enjoy learning new technologies & working with them. I'm fond of making friends with new developers too, so if you're new feel free to hit me up 👇</h3>
 
 
