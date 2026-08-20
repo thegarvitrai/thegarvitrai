@@ -1,33 +1,26 @@
 <h1 align="center">Namaste 🙏, I'm Garvit K Rai<br>&ltthegarvitrai/&gt</h1>
-<h3 align="center">A developer in the world of mobiles, a product engineer from India. Software engineer by profession, frontend lover by choice. I enjoy learning new technologies & working with them. I'm fond of making friends with new developers too, so if you're new, feel free to hit me up 👇</h3>
-
+<h3 align="center">A developer in the world of mobiles & fintech, engineering the payment platforms for tourists. Software engineer by profession, frontend lover by choice. I enjoy learning new technologies & working with them. I'm fond of making friends with new developers too, so if you're new, feel free to hit me up 👇</h3>
 
 
 <p align="center"> <a href="https://twitter.com/thegarvitrai" target="_blank"><img src="https://img.shields.io/twitter/follow/thegarvitrai?logo=twitter&style=for-the-badge&color=blue" alt="thegarvitrai" /></a></p>
 
-- 🔭 I’m currently working with <a href="https://github.com/enparadigm" target="_blank">**Sharpsell.ai**</a>
+- 🔭 I’m currently working with <a href="https://xpat.money/" target="_blank">**Xpat.money**</a>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **App Development Projects**
 
-- 💬 Ask me about **JavaScript, Flutter, Java**
+- 💬 Ask me about **Flutter, Mobile Apps, UPI**
 
 - 📄 Know about my experiences on my **LinkedIn**
 
-- 😄 Pronouns: **He/Him**
-
 - ⚡ Fun fact: **My sarcasm complements my baritone**
 
-<h3 align="center">Work Account</h3>
-<p align="center">
-<a href="https://github.com/ergarvitrai" target="_blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="ergarvitrai" height="30"/></a>
-</p>
 
 <br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/thegarvitrai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://x.com/thegarvitrai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thegarvitrai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" /></a>
 <a href="https://instagram.com/thegarvitrai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 <a href="https://www.showwcase.com/thegarvitrai" target="_blank"><img style="padding-top:2px;padding-bottom:2px" align="center" src="assets/showwcase-modified.png" alt="showwcase" height="30" width="30"/></a> 
@@ -47,13 +40,12 @@
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
  <a href="https://aws.amazon.com/" target="_blank"> <img src="assets/aws-icon.png" alt="aws" width="40" height="40"/></a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
- <a href="https://wordpress.com/" target="_blank"> <img src="assets/wordpress-modified.png" alt="wordpress" width="40" height="40"/></a> 
+ 
 </p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegarvitrai&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
- 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thegarvitrai&count_private=true" alt="stats" /></p>
-
+<p align="center"><img align="center" src="https://github-readme-stats.shion.dev/api?username=thegarvitrai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="top languages" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=thegarvitrai&theme=tokyonight&hide_border=true" alt="stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=thegarvitrai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="stats" /></p>
 
 ### <p align="center">Recent Activity</p>
 
@@ -61,3 +53,7 @@
 1. 🔒 Closed issue [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. ❗ Opened issue [#93](https://github.com/jamesgeorge007/github-activity-readme/issues/93) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
+
+<br/>
+<p align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="stats" /></p>
+
